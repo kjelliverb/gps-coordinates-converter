@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "homepage": "https://github.com/kjelliverb/gps-coordinates-converter",
   "authors": [
-    "Kjell Iver Breistøl"
+    "kjelliverb"
   ],
   "description": "A library for converting different gps coordinates formats.",
   "main": "gps-coordinates-converter.js",
@@ -14,7 +14,12 @@
     "converter",
     "deegrees"
   ],
-  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
   "private": true,
   "ignore": [
     "**/.*",
