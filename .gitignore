@@ -1,0 +1,19 @@
+.vagrant
+*~
+*#
+.#*
+\#*#
+.*.sw[a-z]
+*.un~
+/cookbooks
+# Bundler
+bin/*
+.bundle/*
+.DS_Store
+.rake_test_cache
+/.chef
+/cookbooks
+/cookbooks_old
+/tmp
+.kitchen/
+.kitchen.local.yml
